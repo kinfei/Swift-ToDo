@@ -12,7 +12,6 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ToDoApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
@@ -53,6 +52,7 @@
                         <outlet property="tableView" destination="ggl-Cy-FJ5" id="2j9-93-KqZ"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1023.1884057971015" y="79.6875"/>
         </scene>
@@ -74,7 +74,6 @@
                             </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="wlX-K2-TQZ"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="uql-O0-RjG" firstAttribute="top" secondItem="wlX-K2-TQZ" secondAttribute="top" constant="20" id="DGV-QA-uL3"/>
                             <constraint firstItem="uql-O0-RjG" firstAttribute="leading" secondItem="wlX-K2-TQZ" secondAttribute="leading" constant="20" id="Ges-ku-dBF"/>
