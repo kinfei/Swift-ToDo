@@ -1,8 +1,8 @@
-
-# Xcode
-## Build generated
-build/
-DerivedData/
-## Various settings
-*.pbxuser
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
 xcuserdata/
+*.png
+*.gif
+/Assets
